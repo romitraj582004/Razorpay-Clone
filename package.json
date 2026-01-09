@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "vite",
+    "dev": "dist",
     "build": "vite build",
     "preview": "vite preview"
   },
